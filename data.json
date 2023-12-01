@@ -1,0 +1,62 @@
+[
+
+    {
+
+        "id": "semi",
+
+        "titulo": "semi",
+
+        "imagen": "./img/152082772_1611221315755101_3102110319291894731_n.webp",
+
+        "categoria": {
+
+            "nombre": "semi",
+
+            "id": "semi"
+
+        },
+
+        "precio": 1000
+
+    },
+
+    {
+
+        "id": "esculpidas",
+
+        "titulo": "esculpidas",
+
+        "imagen": "./imgmanicura-francesa-clasica_c08a39e3_800x1000.jpg",
+
+        "categoria": {
+
+            "nombre": "esculpidas",
+
+            "id": "esculpidas"
+
+        },
+
+        "precio": 1000
+
+    },
+
+    {
+
+        "id": "kapping",
+
+        "titulo": "kapping",
+
+        "imagen": "./img/152082772_1611221315755101_3102110319291894731_n.webp",
+
+        "categoria": {
+
+            "nombre": "kapping",
+
+            "id": "kapping"
+
+        },
+
+        "precio": 1000
+
+    }
+]
